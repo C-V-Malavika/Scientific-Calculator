@@ -26,12 +26,7 @@
     - sqrt()
     - pi
     - e
-      
- - Exception handling using try-except block was performed to handle exceptions in case of ValueError, ZeroDivisionError, OverflowError, TypeError..etc.
- - Python Strings, Lists, Integers and Floating-point nnumbers were mostly used to hold the data or the numbers.
- - Explicit type conversions were performed in some places.
- - 27 functions have been created which define the functionalities of the calculator.
-
+  
 ## Screenshot of the Calculator
 
 The Scientific Calculator that was created will be looking like this :
